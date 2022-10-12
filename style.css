@@ -426,7 +426,7 @@ section h3::before
 
     .main
     {
-        background: url(./images/grandpa.jpg) center center/cover no-repeat;
+        /* background: url(./images/grandpa.jpg) center center/cover no-repeat; */
         padding: 0;
     }
     .title 
